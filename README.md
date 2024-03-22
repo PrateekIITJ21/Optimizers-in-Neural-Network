@@ -1,2 +1,3 @@
 # Optimizers-in-Neural-Network
 On Comparing Four Optimization Algorithms for ANN
+Network-based forecasting has played an important role. Network parameters optimization is an important issue, and different optimization algorithms are believed to result in different forecasting accuracies. In this paper, four network parameters optimization algorithms, including Stocasting Gradient descent, AdaGrad, RMSprop, and Adam are implemented and compared in the application of forecasting. The experiment results show that Adam algorithm and Adagrad algorithm achieve better forecasting accuracy and speedily converse the loss function than the other optimization algorithms. This study can be a guide to the selection of optimization algorithms for Concrete quality problems.
